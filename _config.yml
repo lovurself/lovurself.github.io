@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            열공모드 Blog
+longtitle:        
+author:           Minah Kang
+email:            rkdalsdk081@naver.com
 description: >
-  Build Jekyll site with the GitBook style.
+  1일 1포스팅을 목표로! 열공모드!
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://lovurself.github.io/'
+baseurl:          
 rss:              RSS
 
 toc:
