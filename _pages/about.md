@@ -1,9 +1,10 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-03
-category: Jekyll
+author: Minah Kang
+date: 2022-04-06
 layout: post
 ---
 
-This is an about page.
+강민아 (Kang Minah)
+
+1995.01.01
