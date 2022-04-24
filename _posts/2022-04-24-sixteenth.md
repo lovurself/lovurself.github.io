@@ -25,31 +25,31 @@ name 속성이나 http-equiv 속성이 명시되었다면 반드시 content 속�
 
 일단, emmet으로 자동으로 생성되는 meta 태그부터 알아보자!
 
-1. <meta charset="UTF-8" />
+1. meta charset="UTF-8"
 
    => 해당 문서의 문자 인코딩 방식을 utf-8로 하겠다고 명시하는 것
 
-2. <meta http-equiv="X-UA-Compatible" content="IE=edge" />   
+2. meta http-equiv="X-UA-Compatible" content="IE=edge"
 
    => content 속성에 명시된 값에 대한 HTTP 헤더를 제공한다는 것이다. 이때 인터넷 익스플로러(IE)는 여러가지 버전이 있고, 이 버전 차이로 버전마다 보여지는 것이 달라지기 때문에 표준모드로 볼 수 있도록 설정하는 것이다. IE=edge는 버전 중에 가장 최신 표준모드를 선택하는 것이다.
 
    ([참고한 자료](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=pts4779&logNo=221238716152))
 
-3. <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+3. meta name="viewport" content="width=device-width, initial-scale=1.0"
 
    => 모든 기기에서 웹페이지가 잘 보이도록 viewport를 설정하는 것인데, 브라우저가 웹페이지를 렌더링할 때 동작하는 방법을 알려주고 viewport의 크기를 알 수 있다.
 
 
 
-4. <meta name="keyword" content="키워드명" />
+4. meta name="keyword" content="키워드명"
 
    => 검색 엔진을 위한 키워드들을 정의하는 것, 내 웹페이지를 보여주기 위해 사람들이 검색할 만한 키워드를 정의하는 것이다.
 
-5. <meta name="description" content="설명" />
+5. meta name="description" content="설명"
 
    => 내가 만든 웹페이지에 대한 설명을 정의하는 것이다. 내가 설명한 글을 보고 사람들이 자신이 검색한 것과 관련이 있는지 판단할 수 있도록 하는데, 자세하고 정확한 내용을 작성해야 클릭할 확률을 높인다.
 
-6. <meta name="author" content="작성자명" />
+6. meta name="author" content="작성자명"
 
    => 문서의 저자를 정의하는 것이다.
 
